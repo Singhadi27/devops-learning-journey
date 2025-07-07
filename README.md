@@ -7,14 +7,14 @@ This repo contains my hands-on notes, class summaries, and tools I’m learning 
 
 ## 📁 Repository Structure
 
-| Folder/File | Description |
-|-------------|-------------|
-| `class1-linux.md` | Basic Linux commands and file handling |
-| `class2-git.md`   | Git, GitHub basics, branching, merging |
-| `class3-ec2.md`   | EC2 setup, deploying a web server |
-| `maven-notes.md`  | Java build tool - Maven explained |
-| `docker/`         | Notes and examples related to Docker |
-| `jenkins/`        | Jenkins setup, pipelines, and automation |
+| Folder/File         | Description                                 |
+|---------------------|---------------------------------------------|
+| `linux_git_maven/`  | Basic Linux commands, Git usage, and Maven  |
+| `docker/`           | Notes and examples related to Docker        |
+| `jenkins/`          | Jenkins setup, pipelines, and automation    |
+| `ansible/`          | Ansible playbooks, modules, and deployments |
+| `k8s/`              | Kubernetes concepts, YAML files, and setup  |
+
 
 ---
 

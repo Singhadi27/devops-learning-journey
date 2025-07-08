@@ -19,7 +19,7 @@ This repo contains my hands-on notes, class summaries, and tools I’m learning 
 
 ## 🧭 DevOps Architecture Diagram
 
-![DevOps Architecture](devops-architecture01.png)  
+![DevOps Architecture](devops-architecture.png)  
 > *(Image shows GitHub + CI/CD Pipeline (Build, Test, SonarQube) + Docker + Kubernetes + Terraform + AWS + Prometheus + Grafana + ELK Stack)*
 
 ---

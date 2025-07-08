@@ -15,6 +15,12 @@ This repo contains my hands-on notes, class summaries, and tools I’m learning 
 | `ansible/`          | Ansible playbooks, modules, and deployments |
 | `k8s/`              | Kubernetes concepts, YAML files, and setup  |
 
+---
+
+## 🧭 DevOps Architecture Diagram
+
+![DevOps Architecture](devops+architecture01.png)  
+> *(Image shows GitHub + CI/CD Pipeline (Build, Test, SonarQube) + Docker + Kubernetes + Terraform + AWS + Prometheus + Grafana + ELK Stack)*
 
 ---
 
@@ -32,4 +38,3 @@ Feel free to fork or star if you're learning DevOps too!
 
 ## 📫 Let's Connect
 Follow my DevOps blog: [Bits and Builds on Hashnode](https://hashnode.com/@yourname)
-
